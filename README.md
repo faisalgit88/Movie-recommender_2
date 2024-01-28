@@ -11,7 +11,7 @@ Content-Based Recommendation: The system recommends movies based on the content 
 #### Usage
 * Clone the Repository:
 
-git clone https://github.com/your-username/movie-recommender.git
+###### git clone https://github.com/your-username/movie-recommender.git
 
 * Install Dependencies:
 cd movie-recommender
